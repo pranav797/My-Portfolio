@@ -1,0 +1,63 @@
+.main-background {
+    background-color:#64CCC5;
+}
+
+.big-container {
+    margin: 4rem;
+    background-color: #DAFFFB;
+    border: 5px solid;
+    border-color: #001C30;
+    border-radius: 25px;
+}
+
+.navbar-custom {
+    background-color: #001C30;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.text-custom {
+    color: #001C30 !important;
+}
+
+.pfp {
+    border-radius: 50%
+}
+
+.hero {
+    display: grid;
+}
+
+.skill-container {
+    color: #DAFFFB;
+    background-color: #001C30;
+    border: 15px solid;
+    border-color: #DAFFFB;
+    border-radius: 25px;
+    padding-top: 1%;
+}
+
+.special-text {
+    color: #DAFFFB;
+}
+
+.project-bg-1 {
+    background-color: #001C30;
+}
+
+.project-bg-1:hover {
+    background-color: #04b5a4;
+}
+
+.project-bg-2 {
+    background-color: #0B666A;
+}
+
+.project-bg-2:hover {
+    background-color: #04b5a4;
+}
+
+.proj-img {
+    width: 60%; 
+    height: 500px; 
+    border-radius: 21px 21px 0 0;
+}
